@@ -2,6 +2,7 @@ defaul_browser_radio
 ====================
 
 Make jQuery mobile radio buttons (vertical),  like the default ones in browser of computer (horizontal)
+<strong>This is a beta version, all comments, tips and corrections are welcome</strong>
 
 usage 
 
