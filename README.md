@@ -11,11 +11,11 @@ $("fieldset.defaul_browser_radio").make_browser_radio();
 
 Html code:
                     <pre><code>                    
-                    <b>Sex:</b>&nbsp;
-                    <fieldset class='defaul_browser_radio' style='float:left' >
-                     <input type="radio" name="gender" id="radiogender1" value="1" checked="checked">
-                     <label for="radiogender1">Male</label>
-                     <input type="radio" name="gender" id="radiogender2" value="2">
-                     <label for="radiogender2">Female</label>
-                     </fieldset>
+                    &lt;b>Sex:</b>&nbsp;
+                    &lt;fieldset class='defaul_browser_radio' style='float:left' >
+                     &lt;input type="radio" name="gender" id="radiogender1" value="1" checked="checked">
+                     &lt;label for="radiogender1">Male</label>
+                     &lt;input type="radio" name="gender" id="radiogender2" value="2">
+                     &lt;label for="radiogender2">Female</label>
+                     &lt;/fieldset>
                      </code></pre>
