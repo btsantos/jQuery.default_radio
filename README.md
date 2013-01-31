@@ -10,6 +10,7 @@ Javascript code:
 $("fieldset.defaul_browser_radio").make_browser_radio();
 
 Html code:
+                    <code>                    
                     <b>Sex:</b>&nbsp;
                     <fieldset class='defaul_browser_radio' style='float:left' >
                      <input type="radio" name="gender" id="radiogender1" value="1" checked="checked">
@@ -17,3 +18,4 @@ Html code:
                      <input type="radio" name="gender" id="radiogender2" value="2">
                      <label for="radiogender2">Female</label>
                      </fieldset>
+                     </code>
