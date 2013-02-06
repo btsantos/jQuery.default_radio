@@ -3,23 +3,28 @@
   "title": "jquery mobile default radio button",
   "description": "jQuery plugin to transform vertical radio buttons, in jQuery Mobile, in to horizontal radio buttons, keeping the default aspect.",
   "keywords": [
-    "radio",
-    "default",
-    "mobile",
-    "button"
+                "radio",
+                "default",
+                "mobile",
+                "button",
+                "input",
+                "ui",
+                "btsantos"
   ],
   "version": "1.0.0",
   "author": {
-    "name": "Bruno Santos",
-    "email": "btsantos@gmail.com"
+              "name": "Bruno Santos",
+              "email": "btsantos@gmail.com"
   },
-"licenses": [
-{
-"type": "GPLv2",
-"url": "http://www.example.com/licenses/gpl.html"
-}
+  "licenses": [
+          {
+              "type": "GPLv2",
+              "url": "http://www.example.com/licenses/gpl.html"
+          }
 ],
+  "downloads":"https://github.com/btsantos/jQuery.default_radio",
+  "bugs": "https://github.com/btsantos/jQuery.default_radio/issues",
   "dependencies": {
-    "jquery": ">=1.5"
+                "jquery": ">=1.5"
   }
 }
