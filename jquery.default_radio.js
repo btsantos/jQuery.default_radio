@@ -18,7 +18,7 @@ var methods = {
                     if(methods.options.make_div===true && $('#'+methods.options.inline_div).length > 0){$('div#'+methods.options.inline_div).append($(this));}
                     $(this).find(".ui-btn .ui-btn-inner").each(function(){
                         var padding_left=parseInt($(this).css('padding-left'),10);
-                        var width_string=$(this).children(".ui-btn-text").width();
+                        var width_string=($(this).children(".ui-btn-text").width()+1);
                         $(this).children(".ui-btn-text").css({'color':'#222222','text-shadow':'0px 0px'});
                         
                         $(this).width(width_string);
